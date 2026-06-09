@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mtbag25-creator.github.io/Ignite/sitemap.xml
